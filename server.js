@@ -22,4 +22,4 @@ app.post('/upload', (req, res) => {
     });
 });
 
-app.listen(5000, () => console.log('App listening on PORT: https://localhost:5000'))
+app.listen(5000, () => console.log('App listening on PORT: http://localhost:5000'))

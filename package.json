@@ -15,8 +15,8 @@
     "url": "git+https://github.com/WLeondike/reactFileUploader.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "WLeondike",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/WLeondike/reactFileUploader/issues"
   },
